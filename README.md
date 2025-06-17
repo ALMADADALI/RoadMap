@@ -2,7 +2,7 @@
 Collection of cybersecurity and ethical hacking roadmaps from beginner to advanced, curated by CYBER MIND SPACE.
 # 🛡️ Cybersecurity Roadmaps
 
-Welcome to the ultimate collection of **hands-on cybersecurity roadmaps**, curated by [CYBER MIND SPACE](https://www.youtube.com/@cyber_mind_space).
+Welcome to the ultimate collection of **hands-on cybersecurity roadmaps**, curated by [CYBER MIND SPACE](https://www.youtube.com/@CyberMindSpace).
 
 This repo is built to guide you step-by-step through real-world hacking platforms like **TryHackMe**, **HackTheBox**, and **PortSwigger Labs** – from beginner to pro.
 
@@ -29,14 +29,14 @@ This repo is built to guide you step-by-step through real-world hacking platform
 1. Explore the roadmap folders.
 2. Follow the order — no skipping, bro 😤
 3. Practice on the mentioned platform.
-4. Watch walkthroughs and content on [CYBER MIND SPACE](https://www.youtube.com/@cyber_mind_space) for help.
+4. Watch walkthroughs and content on [CYBER MIND SPACE](https://www.youtube.com/@CyberMindSpace) for help.
 
 ---
 
 ## 📣 Follow the Mission
 
 - 🌐 **Website:** [cybermindspace.com](https://cybermindspace.com/)
-- 🎥 **YouTube:** [@cyber_mind_space](https://www.youtube.com/@cyber_mind_space)
+- 🎥 **YouTube:** [@cyber_mind_space](https://www.youtube.com/@CyberMindSpace)
 - 📢 **Telegram Channel:** [t.me/cybermindspace](https://t.me/cybermindspace)
 - 💬 **Telegram Group:** [Join the Crew](https://t.me/+LJvMwjAE6yA5YWQ1)
 - 📸 **Instagram:** [@cyber_mind_space](https://instagram.com/cyber_mind_space)
